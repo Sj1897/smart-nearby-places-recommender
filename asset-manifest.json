@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/smart-nearby-places-recommender/static/css/main.a3c556bb.css",
+    "main.js": "/smart-nearby-places-recommender/static/js/main.5a645149.js",
+    "index.html": "/smart-nearby-places-recommender/index.html",
+    "main.a3c556bb.css.map": "/smart-nearby-places-recommender/static/css/main.a3c556bb.css.map",
+    "main.5a645149.js.map": "/smart-nearby-places-recommender/static/js/main.5a645149.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3c556bb.css",
+    "static/js/main.5a645149.js"
+  ]
+}
